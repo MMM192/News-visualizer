@@ -1,0 +1,251 @@
+#shadow1 {
+    box-shadow: 10px 10px 20px 1px gray;
+    width: 99%;
+    border-radius: 2ch;
+    height: 9ch;
+    margin-top: 1ch;
+    background-color: white;
+}
+
+
+#icon1 {
+    color: rgb(0, 0, 255);
+}
+
+#link1 {
+    text-decoration: none;
+    color: blue;
+
+}
+
+#icon1:hover {
+    color: rgb(225, 34, 27);
+    transition-duration: 1s;
+
+}
+
+#link1:hover {
+    text-decoration: none;
+    color: rgb(225, 34, 27);
+    transition-duration: 1s;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#icon2 {
+    color: rgb(242, 37, 126);
+}
+
+#link2 {
+    text-decoration: none;
+    color: rgb(242, 37, 126);
+
+}
+
+#icon2:hover {
+    color: rgb(58, 0, 248);
+    transition-duration: 1s;
+
+}
+
+#link2:hover {
+    text-decoration: none;
+    color: rgb(58, 0, 248);
+
+    transition-duration: 1s;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#icon3 {
+    color: lightgreen;
+}
+
+#link3 {
+    text-decoration: none;
+    color: lightgreen;
+
+}
+
+#icon3:hover {
+    color: rgb(218, 0, 221);
+    transition-duration: 1s;
+
+}
+
+#link3:hover {
+    text-decoration: none;
+    color: rgb(218, 0, 221);
+
+
+    transition-duration: 1s;
+
+
+
+}
+
+
+
+
+
+
+
+#icon4 {
+    color: rgb(245, 170, 30);
+}
+
+#link4 {
+    text-decoration: none;
+    color: rgb(245, 170, 30);
+
+
+}
+
+#icon4:hover {
+    color: rgb(93, 203, 157);
+    transition-duration: 1s;
+
+}
+
+#link4:hover {
+    text-decoration: none;
+    color: rgb(93, 203, 157);
+
+
+
+    transition-duration: 1s;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#icon5 {
+    color: rgb(245, 30, 30);
+}
+
+#link5 {
+    text-decoration: none;
+    color: rgb(245, 30, 30);
+
+
+
+}
+
+#icon5:hover {
+    color: rgb(1, 156, 252);
+    transition-duration: 1s;
+
+}
+
+#link5:hover {
+    text-decoration: none;
+    color: rgb(1, 156, 252);
+
+
+
+
+    transition-duration: 1s;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+#icon6 {
+    color: rgb(255, 217, 0);
+
+}
+
+#link6 {
+    text-decoration: none;
+    color: rgb(255, 217, 0);
+
+
+
+
+}
+
+#icon6:hover {
+    color: rgb(255, 0, 204);
+    transition-duration: 1s;
+
+}
+
+#link6:hover {
+    text-decoration: none;
+    color: rgb(255, 0, 204);
+
+
+
+
+    transition-duration: 1s;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.span1 {
+
+    width: 2ch;
+}
+
+#img {
+    border-radius: 50ch;
+    width: 100%;
+    height: 3.5ch;
+}

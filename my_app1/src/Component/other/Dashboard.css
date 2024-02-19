@@ -1,0 +1,138 @@
+#sidenav {
+
+    background-color: rgb(76, 76, 228);
+
+    width: 100%;
+
+    height: 19.5cm;
+}
+
+
+
+
+.itle1 {
+    color: white;
+}
+
+
+
+#icon {
+    color: white;
+    margin-top: -1ch;
+
+}
+
+
+
+#table1 {
+    margin-left: 1cm;
+}
+
+
+
+#hr1 {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #ffffff;
+    /* old IE */
+    background-color: #ffffff;
+    /* Modern Browsers */
+}
+
+
+#homebtn {
+
+    background-color: #ffffff;
+    border: none;
+    color: rgb(76, 76, 228);
+    border-radius: 2ch;
+    width: 5cm;
+    margin-left: 1ch;
+    font-size: larger;
+
+}
+
+
+
+.link1 {
+    text-decoration: none;
+    color: #ffffff;
+
+
+}
+
+
+.margin1 {
+    margin-left: 7ch;
+
+}
+
+
+#body1 {
+    background-color: rgb(238, 238, 238);
+}
+
+.margin1:hover {
+    margin-left: 7ch;
+    color: red;
+    transition-duration: 1s;
+
+}
+
+.spam1 {
+    height: 1ch;
+}
+
+
+
+#divshadow {
+
+    box-shadow: 10px 10px 20px 1px gray;
+    border-radius: 2ch;
+    background-color: white;
+}
+
+#fixed {
+
+    position: fixed;
+}
+
+
+
+
+#up596 {
+    margin-top: -4ch;
+}
+
+
+.btn245 {
+
+
+    margin-left: 6.5ch;
+    background-color: rgb(76, 76, 228);
+    border: none;
+    color: white;
+
+    border: 2px solid rgb(255, 255, 255);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+
+    border-radius: 2ch;
+
+}
+
+.btn245:hover {
+
+
+    margin-left: 6.5ch;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: rgb(0, 0, 0);
+    transition-duration: 1s;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 2ch;
+
+}
