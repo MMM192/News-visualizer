@@ -42,16 +42,6 @@ news-visualizer/
 │   ├── pom.xml
 │   └── README.md
 │
-├── database/                # Database schema and configuration
-│   └── schema.sql
-│
-├── docs/                    # Project documentation
-│   └── architecture.png     # Example architecture diagram
-│
-├── tests/                   # Testing files
-│   ├── frontend/
-│   └── backend/
-│
 ├── .gitignore               # Ignored files in version control
 ├── LICENSE                  # License for the project
 └── README.md                # Project overview and instructions
